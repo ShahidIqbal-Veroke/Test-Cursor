@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "123-456-7890",
+      "address": "123 Main St, City, Country",
+      "createdAt": "2024-03-20T10:00:00.000Z"
+    },
+    {
+      "id": "fa13",
+      "name": "MSi",
+      "email": "MSI@veroke.com",
+      "phone": "03250550005",
+      "address": "Sillanwali block four near taj musjid house 563/5",
+      "createdAt": "2025-02-27T12:03:29.243Z"
+    }
+  ]
+}
