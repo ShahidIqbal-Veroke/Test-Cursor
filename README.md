@@ -1,7 +1,7 @@
 // my remarks
-From these session i aware the importance of ai in development field & know how to use Ai in a better manner. but for now i feel that we can't totally depend on Ai
-because it's not able to handle major level requirements.
-When i try to get desired results. i observed.
+From these session i aware the importance of ai in development field & know how to use Ai in a better manner. but for now i feel that we can't totally depend on Ai,
+because when i try to get desired results i observed. 
+it's not able to handle major level requirements.
 it's suitable to meet minor type of changes.
 
 # CrudApp
