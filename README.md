@@ -1,3 +1,9 @@
+// my remarks
+From these session i aware the importance of ai in development field & know how to use Ai in a better manner. but for now i feel that we can't totally depend on Ai
+because it's not able to handle major level requirements.
+When i try to get desired results. i observed.
+it's suitable to meet minor type of changes.
+
 # CrudApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
