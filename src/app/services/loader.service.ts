@@ -12,7 +12,7 @@ export class LoaderService {
     this.isLoading.next(true);
     setTimeout(() => {
       this.hide();
-    },500); // Hide after 1.5 seconds
+    }, 1000); // Hide after 1.5 seconds
   }
 
   hide() {
